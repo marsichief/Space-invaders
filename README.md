@@ -1,25 +1,48 @@
 Space Invaders
-Este é um jogo de Space Invaders escrito em Python. O jogo é jogado usando o teclado. O jogador pode mover a nave para a esquerda e para a direita e atirar nos invasores usando o a barra de espaço. O objetivo do jogo é destruir todos os invasores antes que eles destruam a nave do jogador.
 
-Como jogar
+Este é um jogo de Space Invaders escrito em Python. O jogo é jogado usando o teclado. 
+
+O jogador pode mover a nave para a esquerda e para a direita e atirar nos invasores usando o a barra de espaço. O objetivo do jogo é destruir todos os invasores antes que eles destruam a nave do jogador.
+
+
+**Como jogar:
+
 Para jogar, basta pressionar o botão "Run" no seu editor de código. O jogo será iniciado e você poderá começar a jogar.
 
-Controles
+
+
+**Controles:
+
 ← e → - Move a nave para a esquerda e para a direita
+
 Barra de espaço - Atira nos invasores
-Objetivo
+
+
+**Objetivo:
+
 O objetivo do jogo é destruir todos os invasores antes que eles destruam a nave do jogador.
 
-Pontuação
+
+**Pontuação:
+
 Você ganha um ponto por cada invasor que destrói.
 
-Vidas
+
+**Vidas:
+
 Você tem apenas 1 vida. Se você perder, o jogo acaba.
 
-Dicas
+
+**Dicas:
+
 Use o teclado para mover a nave e atirar nos invasores.
+
 Destrua os invasores antes que eles destruam a nave do jogador.
+
 Ganhe pontos destruindo os invasores.
 
-Créditos
+
+
+**Créditos:
+
 Este jogo foi criado por Ygor Marsi (marsichief).
