@@ -2,7 +2,7 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
-| :placard: Vitrine.Dev |     |
+
 | -------------  | --- |
 | :sparkles: Nome        | **Space Invaders*
 | :label: Tecnologias | Python (tecnologias utilizadas)
@@ -63,4 +63,4 @@ Ganhe pontos destruindo os invasores.
 
 **Créditos:
 
-Este jogo foi criado por Ygor Marsi (marsichief).
+Este jogo foi criado por Ygor Marsi (marsiygor).
