@@ -2,7 +2,7 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
-
+| :placard: |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Space Invaders*
 | :label: Tecnologias | Python (tecnologias utilizadas)
